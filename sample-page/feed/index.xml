@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="http://jon-ho.github.io/portfolio/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>http://jon-ho.github.io/portfolio/</link>
+	<atom:link href="https://jon-ho.github.io/portfolio/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jon-ho.github.io/portfolio/</link>
 	<description></description>
 	<lastBuildDate>Sun, 06 Aug 2023 01:39:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
