@@ -2208,7 +2208,7 @@ ol.comment-list {
 }
 .single-post article blockquote:before {
     content: "";
-    background-image: url('/wp-content/themes/blogjr/assets/uploads/blockquote.png');
+    background-image: url('httpjons-portfolio.local//wp-content/themes/blogjr/assets/uploads/blockquote.png');
     background-repeat: no-repeat;
     position: absolute;
     top: 0;
@@ -3414,13 +3414,13 @@ h2.entry-title a {
     margin: 5px;
 }
 #introduction .wp-playlist .wp-playlist-prev {
-    background-image: url('/wp-content/themes/blogjr/assets/uploads/next.svg');
+    background-image: url('httpjons-portfolio.local//wp-content/themes/blogjr/assets/uploads/next.svg');
     background-position: center;
     background-size: cover;
     transform: rotate(180deg);
 }
 #introduction .wp-playlist .wp-playlist-next {
-    background-image: url('/wp-content/themes/blogjr/assets/uploads/next.svg');
+    background-image: url('httpjons-portfolio.local//wp-content/themes/blogjr/assets/uploads/next.svg');
     background-position: center;
     background-size: cover;
 }
@@ -3780,7 +3780,7 @@ ul.post-categories li {
 }
 .slick-prev:before,
 .slick-next:before {
-    background-image: url('/wp-content/themes/blogjr/assets/uploads/down-arrow.svg');
+    background-image: url('httpjons-portfolio.local//wp-content/themes/blogjr/assets/uploads/down-arrow.svg');
     content: "";
     background-repeat: no-repeat;
     width: 18px;
